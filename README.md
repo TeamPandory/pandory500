@@ -2,7 +2,7 @@
 
 
 # Pandory Mod for the A500 Mini
-by @**emuchicken** and @**dajoho**
+by @**emuchicken** and @**dajoho** of Team Pandory https://www.youtube.com/teampandory
 
 ## WHAT IS PANDORY?
 
