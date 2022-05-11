@@ -95,6 +95,7 @@ As the USB stick has to be in FAT32 format, and FAT32 has performance problems w
 
 - Many thanks to http://androidarts.com/ for the pixel-art icons used in the RetroArch menus.
 - Lotus Turbo Challenge 2 title screen music used with permission by Barry Leitch. Thanks Barry! Please support him at his bandcamp here: https://barryleitch.bandcamp.com/
+- Thanks to https://github.com/SimonLarsen/tobutobugirl, as we include TobuTobuGirl as a free rom inside Pandory.
 
 ## LICENSE 
 The whole of the Pandory A500 modification, including reverse-engineered development toolchain, patched 3rd party packages and buildscripts will be released under GPL (or their own respective open-source license) within the next few days. We're still tidying things up so that they are usable and pretty.
