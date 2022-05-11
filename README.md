@@ -1,42 +1,49 @@
 
+
+
 # Pandory Mod for the A500 Mini
 by @**emuchicken** and @**dajoho**
 
 ## WHAT IS PANDORY?
 
-Pandory is "sideloaded" firmware for the A500 mini which gives you full access to the machine and allows you to run native programs that enable many new game emulators, such as RetroArch. It comes in the form of a WHDLOAD package and exploits a hidden-feature of the A500 amiberry emulator to run native code. It runs completely from USB stick and is **100% removable**.
+The Pandory Mod is "sideloaded" firmware for the A500 mini which gives you full access to the machine and allows you to run native programs that enable many new game emulators, such as RetroArch. It comes in the form of a WHDLOAD package and exploits a hidden-feature of the A500 amiberry emulator to run native code. It runs completely from USB stick and is **100% removable**.
+
+[![Pandory Mod for the A500 Mini on Youtube](https://i.ytimg.com/vi/LpL2f1RfqBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LpL2f1RfqBQ)
+[YouTube Video](https://www.youtube.com/watch?v=LpL2f1RfqBQ)
+
 
 ## WHAT DOES PANDORY DO?
 Pandory enables:
 - A new native RetroArch menu, with OpenGL video-driver support, allowing many new emulators alongside Amiga, including:
-    - Megadrive
-    - SNES
-    - Playstation 1
-    - 32X
-    - Amiga PUAE
+    - **Megadrive**
+    - **SNES**
+    - **Playstation 1**
+    - **32X**
+    - **Amiga PUAE**
         - *RetroArch has been configured with ADF and IPF support.*
-    - Commodore 64
-    - Atari ST
-    - PC-Engine / TurboGrafx
-    - MS-DOS
-    - Game Boy
-    - Game Boy Color
-    - Game Boy Advance
-    - Game Gear
-    - MasterSystem
-    - Quake/DOOM ports
-    - ScummVM (Retroarch version)
+    - **Commodore 64**
+    - **Atari ST**
+    - **PC-Engine / TurboGrafx**
+    - **MS-DOS**
+    - **Game Boy**
+    - **Game Boy Color**
+    - **Game Boy Advance**
+    - **Game Gear**
+    - **MasterSystem**
+    - **Quake/DOOM ports**
+    - **ScummVM (RetroArch version)**
     - *.. and many more ..*
 - Full root access to your device via Linux Terminal
 - ScummVM (Native version)
 - Allows switching between the normal A500 menu / Pandory Menu
 - Thousands of thumbnails for many different games
-- Allows configuration and mapping of controllers not usually supported by the A500 mini
-- Background music
+- Allows configuration and mapping of controllers not usually supported by the A500 mini -> pandory bypasses SDL2-input and uses Linux-UDEV directly.
+- Menu background music (Lotus 2) - see the "THANKS" section below.
+- A selection of free homebrew-games to test before you add your own games.
 - Flexible aspect ratio configuration options
 
 ## HOW DO I GET IT?
-Download the latest zip via torrent, or use the direct link here.
+Download the latest zip via [torrent](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.torrent), or use the [direct link](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.zip).
 
 ## INSTALL
 
@@ -70,14 +77,13 @@ To modify settings while a game is running, or to remap controls, hold start. Fo
 
 Since RetroArch is a linux application, the paths to all the files are in unix format on the A500. Here are some useful locations that you might need in the RetroArch menu:
 
-USB-Stick: `/mnt`
-Pandory-Roms: `/mnt/Pandory/.user/roms/`
-RetroArch-Settings: `/mnt/Pandory/.user/.config/retroarch`
-RetroArch-Themes: `/tmp/pandory/share/retroarch/assets`
-RetroArch-Cores: `/tmp/pandory/share/retroarch/cores`
-RetroArch-Thumbnails: `/tmp/pandory/share/retroarch/cores`
-Linux Binaries: `/tmp/pandory/bin`
-
+- USB-Stick: `/mnt
+- Pandory-Roms: `/mnt/Pandory/.user/roms/`
+- RetroArch-Settings: `/mnt/Pandory/.user/.config/retroarch`
+- RetroArch-Themes: `/tmp/pandory/share/retroarch/assets`
+- RetroArch-Cores: `/tmp/pandory/share/retroarch/cores`
+- RetroArch-Thumbnails: `/tmp/pandory/share/retroarch/cores` Linux
+- Binaries: `/tmp/pandory/bin`
 
 ## HACKING
 
