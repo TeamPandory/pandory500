@@ -45,7 +45,7 @@ Pandory enables:
 
 ## HOW DO I GET IT?
 
-**IMPORTANT: BEFORE YOU DOWNLOAD< MAKE SURE YOUR A500 IS RUNNING IN 60HZ DISPLAY MODE OR YOU WILL EXPERIENCE AUDIO STUTTER!**
+**IMPORTANT: BEFORE YOU DOWNLOAD, MAKE SURE YOUR A500 IS RUNNING IN 60HZ DISPLAY MODE OR YOU WILL EXPERIENCE AUDIO STUTTER!**
 
 Download the latest zip via [torrent](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.torrent), or use the [direct link](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.zip).
 
