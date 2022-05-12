@@ -44,13 +44,14 @@ Pandory enables:
 - Flexible aspect ratio configuration options
 
 ## HOW DO I GET IT?
+
+**IMPORTANT: BEFORE YOU DOWNLOAD< MAKE SURE YOUR A500 IS RUNNING IN 60HZ DISPLAY MODE OR YOU WILL EXPERIENCE AUDIO STUTTER!**
+
 Download the latest zip via [torrent](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.torrent), or use the [direct link](https://github.com/emuchicken/pandory-a500/releases/download/v1/pandory-a500-v1-20220511.zip).
 
 ## INSTALL
 
 Copy the `Pandory` and `THEA500` folders to a FAT32-formatted USB stick. You can use the program [Rufus](https://rufus.ie/downloads/) to perform the formatting. If you already have a `THEA500` folder, such as one from the fantastic [Aminimiga](https://www.aminimiga.com/) project, you don't need to copy ours. To uninstall, just delete the `Pandory` folder.
-
-**IMPORTANT:** One user experienced audio stutter when the A500 is set to 50hz. Set it to 60hz, or do a settings-reset if you experience audio problems. We will try to automate changing the frequency in the next release.
 
 
 ## USAGE
