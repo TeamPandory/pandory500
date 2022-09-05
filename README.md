@@ -57,7 +57,7 @@ Pandory enables:
 
 ## INSTALL
 
-Download the latest zip [here](https://github.com/emuchicken/pandory-a500/releases/download/v2-002/pandory500-v2-20220827.zip).
+Download the latest zip [here](https://github.com/emuchicken/pandory-a500/releases/download/v2-002/pandory500-v2-20220905.zip)
 
 Download the optional thumbnail pack here and extract it using WinRar or 7Zip.  
 (https://github.com/emuchicken/pandory-a500/releases/tag/thumbs) When done, copy the `.pandorythumbs` file to your USB stick inside the `Pandory` folder.
