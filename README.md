@@ -72,7 +72,7 @@ Insert your prepared USB, select it from the A500 menu, choose the `Pandory` fol
 
 ## INSTALLING ROMS
 
-If you want to add roms, put them on your USB stick in a subfolder of `Pandory/.user/roms/`. In order for them to become visible in the RetroArch menu, use the RetroArch settings menu to refresh your playlists, or to add a new playlist. We have pre-configured many playlists for individual consoles, but you can also add your own. To do this, use the `Manual scan` option in the RetroArch menu. Select a folder, select a core and start scanning. 
+If you want to add roms, put them on your USB stick in a subfolder of `Pandory/.roms/`. In order for them to become visible in the RetroArch menu, use the RetroArch settings menu to refresh your playlists, or to add a new playlist. We have pre-configured many playlists for individual consoles, but you can also add your own. To do this, use the `Manual scan` option in the RetroArch menu. Select a folder, select a core and start scanning. 
 
 *Pandory contains **several thousand** screenshots from almost any game you wish to add. If you name your roms/folders according to the libretro naming scheme (see http://thumbnails.libretro.com/), the thumbnails should automatically appear.*
 
