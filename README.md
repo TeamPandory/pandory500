@@ -93,7 +93,7 @@ To modify settings while a game is running, or to remap controls, hold start. Fo
 Since RetroArch is a linux application, the paths to all the files are in unix format on the A500. Here are some useful locations that you might need in the RetroArch menu:
 
 - USB-Stick: `/mnt`
-- Game-Roms: `/mnt/Pandory/.user/roms/`
+- Game-Roms: `/mnt/Pandory/.roms/`
 - RetroArch-Settings: `/mnt/Pandory/.user/.config/retroarch`
 - Settings for other applications: `/mnt/Pandory/.user/.config/retroarch`
 - Linux Binaries: `/tmp/pandory/bin`
