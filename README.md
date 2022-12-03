@@ -110,7 +110,7 @@ As the USB stick has to be in FAT32 format, and FAT32 has performance problems w
 - Thanks to https://github.com/SimonLarsen/tobutobugirl, as we include TobuTobuGirl as a free rom inside Pandory.
 
 ## LICENSE 
-Pandory contains software which is covered by different licenses. Almost everything is covered by GPL3/GPL2 or MIT licenses, with the exception of the `host-rum` binary, which is closed source and covered by the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) https://creativecommons.org/licenses/by-nc-nd/4.0/ license. It will be provided under the conditions of the GPL3 if/when the firmware exploit is closed. GPL/MIT source is available upon request for any packages we may have modified.
+Pandory contains software which is covered by different licenses. Almost everything is covered by GPL3/GPL2 or MIT licenses, with the exception of the `host-rum` binary, which is closed source and covered by the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) https://creativecommons.org/licenses/by-nc-nd/4.0/ license. It will be provided under the conditions of the GPL3 if/when the firmware exploit is closed. 
 
 Code Repository: [https://code.teampandory.com/pandory500](https://code.teampandory.com/pandory500). 
 
