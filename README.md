@@ -100,7 +100,7 @@ Since RetroArch is a linux application, the paths to all the files are in unix f
 
 ## HACKING
 
-As the USB stick has to be in FAT32 format, and FAT32 has performance problems when working with many thousands of files, we distribute Pandory as a virtual filesystem. This is the `.pandory` file within the Pandory folder. It is a linux ext2 disk image and contains all of the pandory programs, libraries, RetroArch assets, cores and game thumbnails. The `.pandory` file is mounted in the folder `/tmp/pandory` on the A500. If you wish to edit it, you can use an installation of Linux, such as [Manjaro Gnome,](https://manjaro.org/downloads/official/gnome/) right click the `.pandory` file and open it with Disk-Image-Mounter. It is also possible to mount the filesystem with the following commands:  `mkdir /tmp/pandory && mount -o loop .pandory /tmp/pandory`.
+As the USB stick has to be in FAT32 format, and FAT32 has performance problems when working with many thousands of files, we distribute Pandory as a virtual filesystem. This is the `.pandory` file within the Pandory folder. It is a linux ext2 disk image and contains all of the pandory programs, libraries, RetroArch assets and other system files. The `.pandory` file is mounted in the folder `/tmp/pandory` on the A500. If you wish to edit it, you can use an installation of Linux, such as [Manjaro Gnome,](https://manjaro.org/downloads/official/gnome/) right click the `.pandory` file and open it with Disk-Image-Mounter. It is also possible to mount the filesystem with the following commands:  `mkdir /tmp/pandory && mount -o loop .pandory /tmp/pandory`.
 
 
 ## THANKS
