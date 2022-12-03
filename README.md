@@ -118,4 +118,4 @@ Third-party packages: [https://code.teampandory.com/thirdparty](https://code.tea
 
 ## COMMUNITY
 
-Want to chat about the Pandory A500 Mod? Come and visit us on Discord: https://pg3d-hax.uk/discord 
+Want to chat about the Pandory A500 Mod? Come and visit us on Discord: https://teampandory.com/discord
