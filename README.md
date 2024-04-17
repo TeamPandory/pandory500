@@ -5,10 +5,12 @@ by @**emuchicken** and @**dajoho** of Team Pandory https://www.youtube.com/teamp
 
 The Pandory Mod is "sideloaded" firmware for the A500 mini which gives you full access to the machine and allows you to run native programs that enable many new game emulators, such as RetroArch. It comes in the form of a WHDLOAD package and exploits a hidden-feature of the A500 amiberry emulator to run native code. It runs completely from USB stick and is **100% removable**.
 
+[![POWER UP Your A500 Mini: PANDORY500 V3 on a USB Stick!](https://i1.ytimg.com/vi/DIRgmOtiol4/hqdefault.jpg)](https://www.youtube.com/watch?v=DIRgmOtiol4)
+[YouTube Video v3](https://www.youtube.com/watch?v=DIRgmOtiol4)
+
 [![A500 Mini Pandory Mod UPDATE! - What's new in Pandory500 ?](https://i1.ytimg.com/vi/tx8HyMEk8CM/hqdefault.jpg)](https://www.youtube.com/watch?v=tx8HyMEk8CM)
 
 [YouTube Video v2](https://www.youtube.com/watch?v=tx8HyMEk8CM)
-
 
 [![Pandory Mod for the A500 Mini on Youtube](https://i1.ytimg.com/vi/LpL2f1RfqBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=LpL2f1RfqBQ)
 
@@ -38,10 +40,12 @@ Pandory enables:
     - *.. and many more ..*
 - Full root access to your device via Linux Terminal
 - NATIVE ScummVM Emulator - For point and click adventure games
-- NATIVE OpenBOR Emulator 3.0 - r7142 - For fan-made beat-em-ups
-- NATIVE PPSSPP 1.31.1 - Playstation Portable Emulator
-- NATIVE DOSBox Staging 0.79 (git master) - IBM PC / MS-DOS Emulator
-- NATIVE OpenCubic Music Player 0.299 (plays MP3/MOD/XM and many more)
+- NATIVE OpenBOR Emulator - For fan-made beat-em-ups
+- NATIVE PPSSPP - Playstation Portable Emulator
+- NATIVE DOSBox Staging - IBM PC / MS-DOS Emulator
+- NATIVE OpenCubic Music Player (plays MP3/MOD/XM and many more)
+- NATIVE MilkyTracker (Make your own mod music)
+- NATIVE Quake, Doom and Duke3D in HD
 - NATIVE Video Player - with joypad support (mpv)
 - Virtual cores to allow retroarch to start the native emulators
 - Almost ALL settings are configurable in the `Pandory/.user` folder of the USB stick
@@ -49,9 +53,9 @@ Pandory enables:
 - Thousands of thumbnails for many different games
 - Allows configuration and mapping of controllers not usually supported by the A500 mini -> pandory bypasses SDL2-input and uses Linux-UDEV directly.
 - Random background menu music.
-- Automatic 50hz/60hz menu switching.
 - A selection of free homebrew-games to test before you add your own games.
 - Flexible aspect ratio configuration options
+
 
 ## HOW DO I GET IT?
 
@@ -108,6 +112,8 @@ As the USB stick has to be in FAT32 format, and FAT32 has performance problems w
 - Many thanks to http://androidarts.com/ for the pixel-art icons used in the RetroArch menus.
 - Lotus Turbo Challenge 2 title screen music used with permission by Barry Leitch. Thanks Barry! Please support him at his bandcamp here: https://barryleitch.bandcamp.com/
 - Thanks to https://github.com/SimonLarsen/tobutobugirl, as we include TobuTobuGirl as a free rom inside Pandory.
+- Thanks to XxDUSTYxX for letting us use some of his tracks as background music.
+- To _jj0 and oleavr for their work on hacking the kernel and enabling the possibility of adding new hardware drivers to THEA500.
 
 ## LICENSE 
 Pandory contains software which is covered by different licenses. Almost everything is covered by GPL3/GPL2 or MIT licenses, with the exception of the `host-rum` binary, which is closed source and covered by the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) https://creativecommons.org/licenses/by-nc-nd/4.0/ license. It will be provided under the conditions of the GPL3 if/when the firmware exploit is closed. 
