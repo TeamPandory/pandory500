@@ -62,17 +62,16 @@ Pandory enables:
 
 ## INSTALL
 
-Download the latest zip [here](https://github.com/emuchicken/pandory-a500/releases/download/v2-002/pandory500-v2-20220905.zip)
+Download the latest zip [here](https://www.teampandory.com/pandory500). 
 
-Download the optional thumbnail pack here and extract it using WinRar or 7Zip.  
-(https://github.com/emuchicken/pandory-a500/releases/tag/thumbs) When done, copy the `.pandorythumbs` file to your USB stick inside the `Pandory` folder.
+Latest release notes are [here](https://github.com/TeamPandory/pandory500/releases/)
 
 Copy the `Pandory` and `THEA500` folders to a FAT32-formatted USB stick. You can use the program [Rufus](https://rufus.ie/downloads/) to perform the formatting. If you already have a `THEA500` folder, such as one from the fantastic [Aminimiga](https://www.aminimiga.com/) project, you don't need to copy ours. To uninstall, just delete the `Pandory` folder.
 
-
 ## USAGE
 
-Insert your prepared USB, select it from the A500 menu, choose the `Pandory` folder and start `Pandory`. You should be greeted with the RetroArch menu. We have pre-installed a few homebrew games for your perusal.
+Switch your A500 to 60hz for best performance. Insert your prepared USB, select it from the A500 menu, choose the `Pandory` folder and start `Pandory`. You should be greeted with the RetroArch menu. We have pre-installed a few homebrew games for your perusal.
+Using a keyboard and mouse is recommended!
 
 
 ## INSTALLING ROMS
