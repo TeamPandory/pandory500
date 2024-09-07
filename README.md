@@ -1,6 +1,13 @@
 # Pandory Mod for the A500 Mini
 by @**emuchicken** and @**dajoho** of Team Pandory https://www.youtube.com/teampandory
 
+<p align="center">
+  <a href="https://teampandory.itch.io/pandory500"><strong>Get it on itch.io</strong><br><br>
+  <img width="200" src="https://img.itch.zone/aW1nLzE3NjMzMTM2LnBuZw==/original/5W04Pb.png">
+  </a>
+</p>
+
+
 ## WHAT IS PANDORY?
 
 The Pandory Mod is "sideloaded" firmware for the A500 mini which gives you full access to the machine and allows you to run native programs that enable many new game emulators, such as RetroArch. It comes in the form of a WHDLOAD package and exploits a hidden-feature of the A500 amiberry emulator to run native code. It runs completely from USB stick and is **100% removable**.
